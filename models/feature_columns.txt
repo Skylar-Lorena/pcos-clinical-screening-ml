@@ -1,0 +1,5 @@
+age
+bmi
+menstrual_irregularity
+testosterone_levelng_dl
+antral_follicle_count
