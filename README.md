@@ -47,8 +47,6 @@ After testing multiple architectures, the **Ensemble (Voting) Model** was select
 
 ## Project Structure
 
-
-
     pcos-clinical-screening-ml/
     │
     ├── data/
